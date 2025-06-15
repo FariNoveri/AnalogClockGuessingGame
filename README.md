@@ -32,11 +32,14 @@ Selamat datang di dunia magis permainan tebak jam analog! Seperti keajaiban yang
 
 ## 🚀 Instalasi
 
-```bash
+
 # Clone repository
-git clone [repository-url]
+```
+git clone https://github.com/FariNoveri/AnalogClockGuessingGame
+```
 
 # Buka index.html di browser
+```
 open index.html
 ```
 
